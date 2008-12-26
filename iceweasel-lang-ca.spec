@@ -2,11 +2,11 @@
 Summary:	Catalan resources for Iceweasel
 Summary(ca.UTF-8):	Recursos catalans per Iceweasel
 Summary(es.UTF-8):	Recursos catalanes para Iceweasel
-Summary(pl.UTF-8):	Katalońskie pliki językowe dla Iceweasel
+Summary(pl.UTF-8):	Katalońskie pliki językowe dla Iceweasela
 Name:		iceweasel-lang-%{_lang}
 Version:	3.0.5
 Release:	1
-License:	GPL
+License:	MPL 1.1 or GPL v2+ or LGPL v2.1+
 Group:		I18n
 Source0:	http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/%{version}/linux-i686/xpi/%{_lang}.xpi
 # Source0-md5:	2f07344aa1c82ef333b4c2e8f85e4bb5
@@ -33,7 +33,7 @@ Recursos catalans per Iceweasel.
 Recursos catalanes para Iceweasel.
 
 %description -l pl.UTF-8
-Katalońskie pliki językowe dla Iceweasel.
+Katalońskie pliki językowe dla Iceweasela.
 
 %prep
 
